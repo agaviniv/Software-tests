@@ -8,6 +8,6 @@ Functional and Structural
 
 Test process
 
-System and Acceptance
+Unit, Integration, System and Acceptance
 
 Quality assurance
