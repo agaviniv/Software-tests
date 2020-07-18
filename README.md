@@ -1,13 +1,4 @@
-# Software-tests
+# Testes de Software
 
-IEEE 829
+[IEEE 829](https://standards.ieee.org/standard/829-2008.html): Documentação de Teste de Software
 
-White and Black Box
-
-Functional and Structural
-
-Test process
-
-Unit, Integration, System and Acceptance
-
-Quality assurance
